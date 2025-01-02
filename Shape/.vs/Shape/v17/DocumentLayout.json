@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\CodeGym\\Work\\AbstractInterface\\Shape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|e:\\codegym\\work\\abstractinterface\\shape\\shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|E:\\CodeGym\\Work\\AbstractInterface\\Shape\\shape\\comperablecircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|solutionrelative:shape\\comperablecircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|E:\\CodeGym\\Work\\AbstractInterface\\Shape\\shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|solutionrelative:shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|e:\\codegym\\work\\abstractinterface\\shape\\shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|E:\\CodeGym\\Work\\AbstractInterface\\Shape\\shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|solutionrelative:shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|e:\\codegym\\work\\abstractinterface\\shape\\shape\\comperablecircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|solutionrelative:shape\\comperablecircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB070AEC-620B-431E-B3A2-BF899FE48A39}|Shape\\Shape.csproj|e:\\codegym\\work\\abstractinterface\\shape\\shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\CodeGym\\Work\\AbstractInterface\\Shape\\Shape\\Program.cs",
               "RelativeDocumentMoniker": "Shape\\Program.cs",
               "ToolTip": "E:\\CodeGym\\Work\\AbstractInterface\\Shape\\Shape\\Program.cs",
               "RelativeToolTip": "Shape\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAiwB8AAAAeAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T10:35:44.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Shape.cs",
               "DocumentMoniker": "E:\\CodeGym\\Work\\AbstractInterface\\Shape\\Shape\\Shape.cs",
               "RelativeDocumentMoniker": "Shape\\Shape.cs",
               "ToolTip": "E:\\CodeGym\\Work\\AbstractInterface\\Shape\\Shape\\Shape.cs",
               "RelativeToolTip": "Shape\\Shape.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwDIAAAAFAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wDIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T10:35:03.633Z",
               "EditorCaption": ""
@@ -66,20 +66,20 @@
               "RelativeDocumentMoniker": "Shape\\Circle.cs",
               "ToolTip": "E:\\CodeGym\\Work\\AbstractInterface\\Shape\\Shape\\Circle.cs",
               "RelativeToolTip": "Shape\\Circle.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAUwDUAAAAFAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T10:34:10.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ComperableCircle.cs",
               "DocumentMoniker": "E:\\CodeGym\\Work\\AbstractInterface\\Shape\\Shape\\ComperableCircle.cs",
               "RelativeDocumentMoniker": "Shape\\ComperableCircle.cs",
               "ToolTip": "E:\\CodeGym\\Work\\AbstractInterface\\Shape\\Shape\\ComperableCircle.cs",
               "RelativeToolTip": "Shape\\ComperableCircle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T10:34:02.193Z",
               "EditorCaption": ""
